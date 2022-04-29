@@ -4,9 +4,7 @@ Hi 👋 My name is Manas Upadhyay
 Frontend Web Developer
 ----------------------
 
-\- I’m a Frontend web developer with more than 3 years of experience. 
-- I have a serious passion for building simple and unique websites, animations and dynamic user experiences. 
-- - Well-organised person, problem solver, independent person with high attention to detail.
+I’m a Frontend web developer with more than 3 years of experience. I have a serious passion for building simple and unique websites, animations and dynamic user experience. Well-organized person, problem solver, independent person with high attention to detail.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [manas-upadhyay.web.app](http://manas-upadhyay.web.app)
