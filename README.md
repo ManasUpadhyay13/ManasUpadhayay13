@@ -36,3 +36,8 @@ I’m a Frontend web developer with more than 3 years of experience. I have a se
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ManasUpadhyay13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/its_me__manas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manas-upadhyay-726b2a225/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/its_me__manas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManasUpadhyay13)](https://git.io/streak-stats)
+
